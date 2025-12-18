@@ -1,6 +1,9 @@
 
 # React-Prezentacja
 
+## Prezentacja jest dostępna pod adresem:
+[https://dan1el-19.github.io/powierzchnie-falowe-react/](https://dan1el-19.github.io/powierzchnie-falowe-react/)
+
 Dokumentacja zawiera instrukcję uruchomienia projektu na lokalnym komputerze.
 
 ## 1. Wymagane oprogramowanie
@@ -25,8 +28,8 @@ Poniższe komendy należy wpisywać w terminalu.
 Jeśli projekt nie został jeszcze pobrany, należy go sklonować lub pobrać jako plik ZIP i rozpakować.
 
 ```bash
-git clone https://github.com/Dan1el-19/React-Prezentacja.git
-cd React-Prezentacja
+git clone https://github.com/Dan1el-19/powierzchnie-falowe-react.git
+cd powierzchnie-falowe-react
 ```
 
 ### Krok 2: Instalacja bibliotek (zależności)
@@ -63,3 +66,4 @@ Node.js nie został poprawnie zainstalowany. Należy pobrać go ponownie ze stro
 
 - W systemach Windows: uruchomić terminal jako Administrator.
 - W systemach macOS/Linux: nie zaleca się używania `sudo`. Warto spróbować ponownie lub sprawdzić uprawnienia do folderu.
+
