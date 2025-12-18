@@ -1,6 +1,3 @@
-
-# React-Prezentacja
-
 ## Prezentacja jest dostępna pod adresem:
 [https://dan1el-19.github.io/powierzchnie-falowe-react/](https://dan1el-19.github.io/powierzchnie-falowe-react/)
 
